@@ -42,7 +42,7 @@
     - EQS를 사용하여 AI캐릭터 주변으로 부터 가장 먼 거리를 선별하여 랜덤하게 이동합니다.
     - 구조물에 막히는 경우 거리가 멀어도 선별되지 않습니다.
       
-   ![Alt text](readImage3/AI RandomPatroll.gif)
+   ![Alt text](readImage3/AIRandomPatroll.gif)
 
 ## Level Design
 
