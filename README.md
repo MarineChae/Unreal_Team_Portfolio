@@ -27,11 +27,6 @@
      
    ![Alt text](readImage3/chaseplayer.gif)
 
- * Patrol Target Locatin
-   - 플레이어가 시야에서 사라진 경우 마지막으로 발견한 위치에서 탐색하도록 구현했습니다.
-     
-   ![Alt text](readImage3/s1.png)
-
   * Away From Player
     - AI의 체력이 일정 수준 이하로 체력이 감소하면 Hidable 태그가 있는 액터 뒤로 이동하여 플레이어로 부터 숨도록 구현했습니다.
     - 숨은 이후 잠시 대기 후 다시 전투에 참여합니다.
