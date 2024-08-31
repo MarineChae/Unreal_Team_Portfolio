@@ -10,8 +10,8 @@
 
 
 
-![Alt text](readImage/Lobby.png)
-![Alt text](readImage/s1.png)
+![Alt text](readImage/main.png)
+![Alt text](readImage/ingm.png)
 
 <br>
 
